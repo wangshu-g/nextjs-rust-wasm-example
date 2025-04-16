@@ -4,20 +4,9 @@
 **/.next/**
 **/.vercel/**
 **/.pnp/**
-**/node_modules/**
-**/coverage/**
-**/out/**
-**/build/**
-**/dist/**
-**/target/**
-**/resources/**
-**/lib/**
-**/upload/**
-**/repo/**
-**/my-app/**
 **/.vscode/**
 **/.vs/**
-**/antd-dep/main/**
+**/node_modules/**
 
 #file
 *.class
@@ -42,6 +31,3 @@
 *.xml
 *.properties
 *.cmd
-/my-next-app/
-/wallpaper/main/
-/wallpaper/dist/
