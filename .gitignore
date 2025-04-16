@@ -6,7 +6,15 @@
 **/.pnp/**
 **/.vscode/**
 **/.vs/**
+**/.nacos/**
+**/.rabbitmq/**
 **/node_modules/**
+**/target/**
+**/out/**
+**/build/**
+**/log/**
+**/repo/**
+**/lib/**
 
 #file
 *.class
